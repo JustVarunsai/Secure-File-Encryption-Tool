@@ -15,8 +15,8 @@ To get started with the project, you need to install the required dependencies.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/JustVarunsai/SecureFileEncryptor.git
-    cd SecureFileEncryptor
+    git clone https://github.com/JustVarunsai/Secure-File-Encryption-Tool.git
+    cd Secure-File-Encryption-Tool
     ```
 
 2. Install the dependencies:
